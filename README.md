@@ -16,4 +16,4 @@
 - [Twitter](https://twitter.com/Damoladev)
 
 ## My Github stats
-[![ Taiwo's GitHub stats](https://github-readme-stats.vercel.app/api?username=tylher&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)'s
+[![ Taiwo's GitHub stats](https://github-readme-stats.vercel.app/api?username=tylher&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
