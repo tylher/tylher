@@ -1,11 +1,11 @@
 ### Hi there 👋, I am
 
-![Taiwo Adediran](https://user-images.githubusercontent.com/53342197/160252989-981ffb9f-6994-4580-bd68-ab2a97891000.png)
+Damola Adediran, I currently work as a full-stack engineer, proficient in JavaScript, Java, and Spring Boot. I am passionate about working on interesting projects and eager to meet new people in the tech space."
 
 
 <!-- **tylher/tylher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🌱 I’m currently learning Full-stack web development in Microverse
+- 🌱 I am a software engineer
 - 👯 I’m looking to collaborate on innovative web projects
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: I am also an artist and I love watching anime
