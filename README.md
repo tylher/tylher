@@ -1,6 +1,6 @@
 ### Hi there 👋, I am
 
-Damola Adediran, I currently work as a full-stack engineer, proficient in JavaScript, Java, and Spring Boot. I am passionate about working on interesting projects and eager to meet new people in the tech space."
+Damola Adediran, I currently work as a full-stack engineer, proficient in JavaScript, Flutter, Java, and Spring Boot. I am passionate about working on interesting projects and eager to meet new people in the tech space."
 
 
 <!-- **tylher/tylher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
